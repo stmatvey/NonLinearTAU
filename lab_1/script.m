@@ -6,5 +6,5 @@ Rya = 8;
 Lov = 0.013;
 T1 = ( Lov + Lya ) / Rya;
 K1 = Cm * Lov;
-K2 = 1 / Jdv;
-Uupr = 10;
+Uupr = 5;
+b = 0.001;
